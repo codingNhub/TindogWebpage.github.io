@@ -184,8 +184,9 @@ button
 
 /*media qurery*/
 
-@media (max-width:1028px) and (max-width:390px)
+@media (max-width:1028px)
 {
+    
     .title-image
     {
         position: static;
